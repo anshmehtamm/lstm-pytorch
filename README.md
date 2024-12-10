@@ -17,6 +17,14 @@ Planned models:
 - BERT
 - GPT
 
+## LSTM Model (crux)
+#### Initialization
+![Screenshot 2024-12-09 at 10 06 13 PM](https://github.com/user-attachments/assets/79b16b9b-c04a-488b-8003-7ea0fa463aa1)
+#### Training Loop
+![Screenshot 2024-12-09 at 10 06 21 PM](https://github.com/user-attachments/assets/2148118a-011b-41f6-8d19-6b84ca2a3973)
+
+
+
 ## Dataset
 
 The dataset used for this project is the "AG News" dataset. It is a collection of news articles from the AG's corpus of news articles on the web. The dataset contains 120,000 training samples and 7,600 testing samples from 42 different classes. 
